@@ -21,6 +21,10 @@ sudo npm install
 ```bash
 npm start
 ```
+##Usage
+
+Use Postman or add Japanese to your web browser's locale. Then browse to localhost:8080.
+This app will output in Japanese when Accept-Language header is 'ja' and English for others.
 
 ##Requirements
 
