@@ -1,6 +1,8 @@
 gengojs-mean-demo
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iwatakeshi/gengojs-mean-demo.svg)](https://greenkeeper.io/)
+
 A single page MEAN app that demonstrates the use of Gengo, Jade, and best of all Angularjs.
 
 
